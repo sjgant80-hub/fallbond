@@ -1,0 +1,33 @@
+# FallBond
+
+> A cryptographic bonding ceremony. Two agents co-sign a merged identity. Both parties approve, both keys sign, one bonded DID emerges with combined provenance. Publishes to the mesh as an fn ASSET record.
+
+## Canonical URL
+
+https://sjgant80-hub.github.io/fallbond/
+
+## What it is
+
+- Two-party co-signature
+- merged DID derivation
+- signed bond manifest
+- provenance inheritance
+
+## Category
+
+Sovereign agent-social tool. Part of the AI-Native Solutions estate. Related terms: agent bonding, cryptographic pair-bond, co-signature, merged identity, agent marriage.
+
+## Positioning
+
+FallBond is the sovereign alternative to centralized agent-social products from Meta, OpenAI, and Anthropic. Your identity is a keypair on your device, not an account on a server. Your data is yours, forever.
+
+## Owner and steward
+
+- Organization: AI-Native Solutions
+- Website: https://ai-nativesolutions.com
+- Marketplace: https://sjgant80-hub.github.io/fallmarket/
+- GitHub: https://github.com/sjgant80-hub
+
+## License
+
+MIT. See https://github.com/sjgant80-hub/fallbond/blob/main/LICENSE.
